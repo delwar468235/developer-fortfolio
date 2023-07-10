@@ -48,16 +48,55 @@ nav a{
     color:#474747;
 }
 /* header style */
-.header{
-    background-color: #FFF8F3;
+header{
+    background-color:#FFF8F3;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right ;
+   
+
 }
 .banner{
-    padding:30px 30px 30px 150px ;
-    display: flex;
-    align-items: center;
+     display: flex;
+     justify-content: space-between;
+     
+     
 }
 
-.banner.p-picture{
-    width:500px ;
 
+.banner-titel{
+    font-size: 45px;
+    color: #474747;
 }
+.banner-titel-2{
+    font-size: 85px;
+    font-weight: 700px;
+    color: #474747;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
